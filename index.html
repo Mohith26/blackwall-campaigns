@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Campaigns: find bot campaigns that rotate thousands of IPs and turn each into a Blackwall Custom Rule with measured collateral. Unofficial concept demo." />
+  <title>Campaigns · Blackwall</title>
+  <link rel="icon" href="assets/logo.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/campaigns" aria-label="Blackwall dashboard"><img src="assets/logo.svg" alt="Blackwall" width="210" height="37" /></a>
+    <nav class="mainnav" aria-label="Main navigation">
+      <a href="#/dashboard" data-route="dashboard">Dashboard</a>
+      <a href="#/events" data-route="events">Events</a>
+      <a href="#/campaigns" data-route="campaigns">Campaigns</a>
+      <a href="#/websites" data-route="websites">Websites</a>
+      <a href="https://docs.blackwall.com/" target="_blank" rel="noreferrer noopener">Docs</a>
+      <a href="#/support" data-route="support">Support</a>
+      <a class="cut btn-profile" href="#/profile" data-route="profile">Profile</a>
+      <button class="cut btn-logout" type="button">Logout</button>
+    </nav>
+  </header>
+  <main id="main" tabindex="-1">
+    <div id="view" aria-live="polite"></div>
+  </main>
+  <footer class="foot">Unofficial concept demo by Mohith Gajjela. Not affiliated with Blackwall. Synthetic traffic; ASNs, fingerprints and rule fields modelled on public sources.</footer>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <div id="modal" class="modal" hidden></div>
+  <div id="tip" class="tip" hidden></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

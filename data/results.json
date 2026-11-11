@@ -1,0 +1,557 @@
+{
+  "generated": "node scripts/results.mjs 20",
+  "demoDay": {
+    "seed": 20261110,
+    "confirmedBig": 3,
+    "c4Confirmed": false,
+    "falseConfirm": 0,
+    "campReq": 30481,
+    "campIps": 4191,
+    "humanN": 20000,
+    "rules": {
+      "campReqShare": 0.9483612742364096,
+      "humanShare": 0.00025
+    },
+    "rulesWithProposed": {
+      "campReqShare": 0.9483612742364096,
+      "humanShare": 0.00025
+    },
+    "rateLimit": {
+      "campReqShare": 0,
+      "humanShare": 0
+    },
+    "asnBlock": {
+      "campReqShare": 1,
+      "humanShare": 1
+    }
+  },
+  "summary": {
+    "days": 20,
+    "allThreeBigConfirmed": 20,
+    "c4ConfirmedDays": 0,
+    "falseConfirmations": 0,
+    "rules": {
+      "campReqShare": 0.9494992649125018,
+      "minCampReqShare": 0.9469971785570335,
+      "humanShare": 0.0007375000000000001,
+      "maxHumanShare": 0.0038
+    },
+    "rulesWithProposed": {
+      "campReqShare": 0.9494992649125018,
+      "humanShare": 0.0006049999999999999
+    },
+    "rateLimit": {
+      "campReqShare": 0.000042394121457273954,
+      "humanShare": 0
+    },
+    "asnBlock": {
+      "campReqShare": 1,
+      "humanShare": 1
+    },
+    "campIps": 4193.4
+  },
+  "days": [
+    {
+      "seed": 20261111,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30606,
+      "campIps": 4195,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9515127752728223,
+        "humanShare": 0.0008
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9515127752728223,
+        "humanShare": 0.0008
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261112,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 29772,
+      "campIps": 4195,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9469971785570335,
+        "humanShare": 0.00035
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9469971785570335,
+        "humanShare": 0
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261113,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30564,
+      "campIps": 4192,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9496793613401388,
+        "humanShare": 0.00085
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9496793613401388,
+        "humanShare": 0.00085
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261114,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30095,
+      "campIps": 4191,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9497923243063632,
+        "humanShare": 0.0006
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9497923243063632,
+        "humanShare": 0.0006
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261115,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30421,
+      "campIps": 4193,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9517109891193584,
+        "humanShare": 0.00035
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9517109891193584,
+        "humanShare": 0.00035
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261116,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30231,
+      "campIps": 4197,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.949621249710562,
+        "humanShare": 0.00075
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.949621249710562,
+        "humanShare": 0
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261117,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30133,
+      "campIps": 4190,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.949291474463213,
+        "humanShare": 0.00035
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.949291474463213,
+        "humanShare": 0.00035
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261118,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 29681,
+      "campIps": 4192,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9478454229978774,
+        "humanShare": 0.00025
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9478454229978774,
+        "humanShare": 0.00025
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261119,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30695,
+      "campIps": 4192,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9498289623717218,
+        "humanShare": 0.00045
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9498289623717218,
+        "humanShare": 0.00045
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261120,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30790,
+      "campIps": 4199,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9499837609613511,
+        "humanShare": 0.0006
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9499837609613511,
+        "humanShare": 0.0006
+      },
+      "rateLimit": {
+        "campReqShare": 0.0006495615459564793,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261121,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30487,
+      "campIps": 4196,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9496834716436514,
+        "humanShare": 0.00055
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9496834716436514,
+        "humanShare": 0.00055
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261122,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30215,
+      "campIps": 4194,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9504550719841138,
+        "humanShare": 0.00035
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9504550719841138,
+        "humanShare": 0.00035
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261123,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30069,
+      "campIps": 4192,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9495493697828328,
+        "humanShare": 0.0006
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9495493697828328,
+        "humanShare": 0
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261124,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30113,
+      "campIps": 4192,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.949191379138578,
+        "humanShare": 0.0004
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.949191379138578,
+        "humanShare": 0.0004
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261125,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30348,
+      "campIps": 4194,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9488598919203901,
+        "humanShare": 0.00185
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9488598919203901,
+        "humanShare": 0.00185
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261126,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30256,
+      "campIps": 4190,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9492662612374405,
+        "humanShare": 0.0005
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9492662612374405,
+        "humanShare": 0.0005
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261127,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30461,
+      "campIps": 4192,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9494107219067004,
+        "humanShare": 0.0005
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9494107219067004,
+        "humanShare": 0
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261128,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30410,
+      "campIps": 4191,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9487668530088786,
+        "humanShare": 0.0038
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9487668530088786,
+        "humanShare": 0.0038
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261129,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30201,
+      "campIps": 4196,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9507963312473097,
+        "humanShare": 0.0004
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9507963312473097,
+        "humanShare": 0.0004
+      },
+      "rateLimit": {
+        "campReqShare": 0,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    },
+    {
+      "seed": 20261130,
+      "confirmedBig": 3,
+      "c4Confirmed": false,
+      "falseConfirm": 0,
+      "campReq": 30254,
+      "campIps": 4195,
+      "humanN": 20000,
+      "rules": {
+        "campReqShare": 0.9477424472796986,
+        "humanShare": 0.00045
+      },
+      "rulesWithProposed": {
+        "campReqShare": 0.9477424472796986,
+        "humanShare": 0
+      },
+      "rateLimit": {
+        "campReqShare": 0.0001983208831889998,
+        "humanShare": 0
+      },
+      "asnBlock": {
+        "campReqShare": 1,
+        "humanShare": 1
+      }
+    }
+  ],
+  "seconds": 50.692,
+  "demoAnalysisMs": 2598
+}
