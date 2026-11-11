@@ -64,9 +64,10 @@ h2.sec { font-size: 28px; margin: 34px 0 16px; }
 
 /* Table (Events table look) */
 .table-wrap { overflow-x: auto; }
-table.t { width: 100%; border-collapse: collapse; font-size: 16px; }
+table.t { width: 100%; border-collapse: collapse; font-size: 17px; }
 table.t th { background: var(--thead); text-align: left; font-weight: 700; padding: 16px 12px; border-bottom: 1px solid var(--line); white-space: nowrap; }
-table.t td { padding: 15px 12px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+table.t td { padding: 17px 12px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+table.t td:first-child { white-space: nowrap; }
 table.t td.num, table.t th.num { text-align: right; font-variant-numeric: tabular-nums; }
 table.t tr.row { cursor: pointer; }
 table.t tr.row:hover td, table.t tr.row.sel td { background: #faf6ff; }
@@ -165,8 +166,8 @@ code { font-family: ui-monospace, Menlo, monospace; font-size: 13px; }
 
 @media (max-width: 1400px) {
   main { padding: 30px 32px 20px; }
-  .mainnav { gap: 20px; }
-  .mainnav a, .mainnav button { font-size: 16px; }
+  .mainnav { gap: 22px; }
+  .mainnav a, .mainnav button { font-size: 17px; }
   .kpi .k { font-size: 19px; } .kpi .v { font-size: 52px; } .kpi { min-height: 200px; padding: 24px 22px 20px; }
   .kpis { gap: 20px; }
   table.t { font-size: 15px; }
